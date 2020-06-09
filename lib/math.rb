@@ -11,7 +11,7 @@ subtraction(5,5)
 def division(num1, num2)
     puts num1 / num2
 end
-division(1,2)
+division(2,2)
 def multiplication(num1, num2)
     puts num1 * num2
 end
